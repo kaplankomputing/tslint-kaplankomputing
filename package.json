@@ -1,0 +1,13 @@
+{
+  "name": "tslint-kaplankomputing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kaplankomputing/tslint-kaplankomputing.git",
+  "author": "Max Kaplan <kaplanmaxe3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.9.1",
+    "tslint-react": "^3.5.1",
+    "typescript": "^2.8.1"
+  }
+}
